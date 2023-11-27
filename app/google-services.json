@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "518359557373",
+    "project_id": "astha-60ea2",
+    "storage_bucket": "astha-60ea2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518359557373:android:7a1b7ad7f8648794654a94",
+        "android_client_info": {
+          "package_name": "com.example.astha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518359557373-5khtjrhhrp69unhc1ak7ttmv0aimidmf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.astha",
+            "certificate_hash": "99c8847bfce55f968bee329e55c41deee4b63443"
+          }
+        },
+        {
+          "client_id": "518359557373-geqst6ne5p7fe3muepkrrl17davvv75q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrYAJt2CsA2yv9TKUeb2rBrNRL_9S6dos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518359557373-geqst6ne5p7fe3muepkrrl17davvv75q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

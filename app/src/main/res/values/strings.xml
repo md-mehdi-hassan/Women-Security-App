@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Astha</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="google_web_client_id">"240484717582-5u4gn5rq5h5g7hh556p20fpb7ohma710.apps.googleusercontent.com"</string>
+    //google sign in
+    <string name="create_an_account">Create an account</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="continue_google">Continue with Google</string>
+    <string name="already_have_an_account">Already have an account?</string>
+</resources>
